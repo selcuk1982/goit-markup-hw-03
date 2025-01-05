@@ -119,10 +119,7 @@ header .address-menu .address-mail-number:active{
     color: #404bbf;
 }
 
-
 /* Header - End */
-
-
 
 /*Main-Section-1*/
 .hero-image {
@@ -165,24 +162,22 @@ header .address-menu .address-mail-number:active{
 }
 /* Main-Section-1 - End */
 
-
-
 /* Main-Section- 2 - Start */
 .feature-section{
     padding:120px 0;
 
 }
 .visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
+    position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+        white-space: nowrap;
+        clip-path: inset(100%);
+        clip: rect(0 0 0 0);
+        overflow: hidden;
   }
 .feature-ul{
     display: flex;
@@ -209,8 +204,6 @@ header .address-menu .address-mail-number:active{
     width:264px ;
     }
 /* Main-Section-2 - End */
-
-
 
 /* Main-Section-3 - Start */
 .team-section {
@@ -267,8 +260,6 @@ header .address-menu .address-mail-number:active{
 
 /* Main-Section-3 - End */
 
-
-
 /* Main-Section-4 - Start */
 .portfolio-section {
     padding: 120px 0;
@@ -306,7 +297,7 @@ header .address-menu .address-mail-number:active{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    
+    margin-bottom: 8px;
 }
 .portfolio-text {
     font-size: 16px;
@@ -316,8 +307,6 @@ header .address-menu .address-mail-number:active{
 
 }
 /* Main-Section-4 - End */
-
-
 
 /* Footer - Start */
  .footer-section {
