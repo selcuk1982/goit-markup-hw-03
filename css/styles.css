@@ -176,7 +176,7 @@ header .address-menu .address-mail-number:active{
 
 }
 .visually-hidden {
-    visibility: hidden;
+    display: none;
   }
 .feature-ul{
     display: flex;
